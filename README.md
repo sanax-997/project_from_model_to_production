@@ -6,7 +6,8 @@
 ## Machine Learning model
 The machine learning model must be downloaded sperately, since the filesize is too large for github.
 Open the following link to download the model: https://drive.google.com/file/d/1dg5jWr1rDT4tSJDMEpY_qN2SPv_wFucV/view?usp=sharing
-The donwloaded model must be copied back intot the folder structure.
+
+The downloaded model must be copied back into the folder structure.
 1. Open the server directory
 2. Open the classifier directory
 2. Open the api directory
