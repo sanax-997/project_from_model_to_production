@@ -23,7 +23,7 @@ There are two seperate installation processes, one for the server and one for th
 ## Usage
 To use the application follow the steps:
 1. Ensure that there are images in the "input" folder. The program should already contain files in the input folder. If the image files are not there or you already tested the application but want to test it again, the folder test_images contains 8 images, two for each category. Copy the contents to the "input" folder.
-2. In the client application execute the command 'py main.py'
+2. In the client application execute the command `py main.py`.
 
 ## Requirements
 - Python Version 3.9.0
