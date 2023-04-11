@@ -3,6 +3,15 @@
 ## Overview
 'Image classification for a refund department' is a web application consisting of a client and a server, which hosts a machine learning model for image classification. The software automatically classifies refund items into categories based on pictures of the items. The system consists overall of 3 working parts. The first component is the client, which is a Python script containing multiple classes, each responsible for a different action and a folder containing the refunded images. These images are then sent via HTTP requests in a string format. On the receiving end and as the second component we have a web application based on Django. The web application features an API endpoint for receiving the string data, a function to convert the data back to an image and a machine learning model for image classification. 
 
+## Machine Learning model
+The machine learning model must be downloaded sperately, since the filesize is too large for github.
+Open the following link to download the model: https://drive.google.com/file/d/1dg5jWr1rDT4tSJDMEpY_qN2SPv_wFucV/view?usp=sharing
+The donwloaded model must be copied back intot the folder structure.
+1. Open the server directory
+2. Open the classifier directory
+2. Open the api directory
+4. Paste the model inside the directory
+
 ## Installation
 There are two seperate installation processes, one for the server and one for the client.
 
