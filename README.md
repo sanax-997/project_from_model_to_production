@@ -26,7 +26,7 @@ To use the application follow the steps:
 2. In the client application execute the command `py main.py`.
 
 ## Requirements
-- Python Version 3.9.0
+Python Version 3.9.0
 
 ## License
 GPL-3.0 License
